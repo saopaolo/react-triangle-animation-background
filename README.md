@@ -1,2 +1,2 @@
 # react-triangle-animation-background
-Created with CodeSandbox
+moving triangles.  frontend reusable background.  created with css, html, react
